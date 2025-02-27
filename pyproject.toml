@@ -8,11 +8,11 @@ name = "TSPsolver"
 version = "0.1.0"
 description = "A Python library for solving the Traveling Salesperson Problem using various algorithms."
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Justin", email = "justin.williams1@students.cau.edu"}
 ]
 dependencies = [
     "numpy"
 ]
 
 [tool.setuptools]
-packages = ["tsp_solver", "tsp_solver.algorithms"]
+packages = ["tsp_solver_jtw", "tsp_solver_jtw.algorithms"]
