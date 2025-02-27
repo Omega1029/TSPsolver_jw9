@@ -4,7 +4,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "TSPsolver"
+name = "TSPsolver_JW96"
 version = "0.1.0"
 description = "A Python library for solving the Traveling Salesperson Problem using various algorithms."
 authors = [
